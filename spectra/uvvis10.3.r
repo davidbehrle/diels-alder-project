@@ -36,7 +36,7 @@ plotSpectra(
     lwd = 2,
     xaxs = "i",
     yaxs = "i",
-    yrange = c(-0.6, 0.5)
+    yrange = c(-0.25, 0.1)
 )
 
 axis(1, 2,
